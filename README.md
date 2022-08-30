@@ -4,4 +4,4 @@ NPM     : 2106751745
 
 Kelas   : D
 
-Hobi    : JIM
+Hobi    : JIM & turu
